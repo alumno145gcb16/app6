@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>App5 aplicacion arrastable</name>
+    <name>Aplicacion 6 (Revolucion Mexicana)</name>
 
     <description>
-        Aplicacion que al realizar el arrastre de una figura, aparec un mensaje alert o un menu
+        Aplicacion acerca de la Revolucion Mexicana
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
